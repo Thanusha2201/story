@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VEVENT
+UID:20240815T225559Z-EN0001-2-76615389@reservation.mycwt.com
+DTSTAMP:20240815T225559Z
+DTSTART:20240825T191000Z
+DTEND:20240825T232500Z
+SUMMARY:Flight_MH 193\, BLR->KUL / SADA2X, KYATANAVAR Annappa Mr
+LOCATION:Bangalore -> Kuala Lumpur
+DESCRIPTION:Flight: MALAYSIA AIRLINES - MH193 - operated by MALAYSIA AIRLINES - Mon 26 August\, 2024\nFrom: Bangalore - Terminal 2\nto: Kuala Lumpur - Terminal 1\nDeparture local time: 12:40am - 26 Aug 24\nArrival local time: 7:25am - 26 Aug 24\nDuration: 04:15(non-stop)\nClass: Economy/Coach (V)\nMeal available:Meal (Non Specific)\nSeat: Not specified \nEquipment: Boeing 737-800 (Winglets) Passenger\nAir E-Ticket Issued: 2325904900126\nBooking Reference: SADA2X\nRecord Locator: SADA2X\nNotes:<br />BChecked baggage allowance:35KG
+X-ALT-DESC;FMTTYPE=text/html:<font size='2'>Flight: MALAYSIA AIRLINES - MH193 - operated by MALAYSIA AIRLINES - Mon&nbsp;26&nbsp;August, 2024<br />From: Bangalore - Terminal 2<br />to: Kuala Lumpur - Terminal 1<br />Departure local time: 12:40am - 26 Aug 24<br />Arrival local time: 7:25am - 26 Aug 24<br />Duration: 04:15(non-stop)<br />Class: Economy/Coach (V)<br />Meal available:Meal (Non Specific)<br /><br />Seat: Not specified <br />Equipment: Boeing 737-800 (Winglets) Passenger<br />Air E-Ticket Issued: 2325904900126<br />Booking Reference: SADA2X<br />Record Locator: SADA2X<br />Notes:<br />BChecked baggage allowance:35KG</font>
+END:VEVENT
+END:VCALENDAR

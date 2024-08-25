@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VEVENT
+UID:20240815T225559Z-EN0001-5-76615389@reservation.mycwt.com
+DTSTAMP:20240815T225559Z
+DTSTART:20241012T070500Z
+DTEND:20241012T110000Z
+SUMMARY:Flight_MH 705\, MNL->KUL / SADA2X, KYATANAVAR Annappa Mr
+LOCATION:Manila Ninoy Aquino -> Kuala Lumpur
+DESCRIPTION:Flight: MALAYSIA AIRLINES - MH705 - operated by MALAYSIA AIRLINES - Sat 12 October\, 2024\nFrom: Manila Ninoy Aquino - Terminal 1\nto: Kuala Lumpur - Terminal 1\nDeparture local time: 3:05pm - 12 Oct 24\nArrival local time: 7:00pm - 12 Oct 24\nDuration: 03:55(non-stop)\nClass: Economy/Coach (N)\nMeal available:Meal (Non Specific)\nSeat: Not specified \nEquipment: Boeing 737-800 (Winglets) Passenger\nAir E-Ticket Issued: 2325904900126\nBooking Reference: SADA2X\nRecord Locator: SADA2X\nNotes:<br />BChecked baggage allowance:35KG
+X-ALT-DESC;FMTTYPE=text/html:<font size='2'>Flight: MALAYSIA AIRLINES - MH705 - operated by MALAYSIA AIRLINES - Sat&nbsp;12&nbsp;October, 2024<br />From: Manila Ninoy Aquino - Terminal 1<br />to: Kuala Lumpur - Terminal 1<br />Departure local time: 3:05pm - 12 Oct 24<br />Arrival local time: 7:00pm - 12 Oct 24<br />Duration: 03:55(non-stop)<br />Class: Economy/Coach (N)<br />Meal available:Meal (Non Specific)<br /><br />Seat: Not specified <br />Equipment: Boeing 737-800 (Winglets) Passenger<br />Air E-Ticket Issued: 2325904900126<br />Booking Reference: SADA2X<br />Record Locator: SADA2X<br />Notes:<br />BChecked baggage allowance:35KG</font>
+END:VEVENT
+END:VCALENDAR
